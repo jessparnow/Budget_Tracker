@@ -15,6 +15,8 @@ A simple app to help keep track of expenses that uses Progressive Web Applicatio
  Use this app to keep track of expenses while travelling or in places without access to internet. 
 
 ## Screenshots
+![Screenshot (27)](https://user-images.githubusercontent.com/71057611/108640164-bb6a0480-745d-11eb-92c1-b2b8b49ec76c.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/71057611/108640167-bf962200-745d-11eb-9cc8-8bdd4742c90a.png)
 
 ## Contributing
  To contribute, please open an issue.
